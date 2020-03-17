@@ -7,6 +7,7 @@ public class GitDay4 {
 				
 		System.out.println("Local First commit master");
 		System.out.println("Local branch first commit");
+		System.out.println("someone else contributed to the code");
 
 	}
 
